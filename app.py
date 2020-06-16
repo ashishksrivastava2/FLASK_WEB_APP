@@ -75,6 +75,8 @@ def my_link():
     Harvey="citrus"
     Emile="rose"
     
+    
+    #enter the Client_ID and Client_secret for FITBIT
     CLIENT_ID = ''
     CLIENT_SECRET = ''
 
